@@ -21,7 +21,7 @@
         "palantirnet/phing-drush-task": "^2.0",
         "pear/http_request2": "^2.3",
         "pear/versioncontrol_git": "@dev",
-        "phing/phing": "^2.14",
+        "phing/phing": "^3",
         "phpmd/phpmd": "^2.4",
         "phpspec/prophecy-phpunit": "^2"
     },
